@@ -1,7 +1,7 @@
 🌸 Iris Flower Classification
 A machine learning project using Scikit-Learn to classify Iris flowers into three species based on sepal and petal dimensions.
 
-
+![Image](https://github.com/user-attachments/assets/d99fbeaa-8df8-42a3-b0aa-40b847f36eef)
 
 📌 Project Overview
 This project implements a classification model to categorize iris flowers into three species:
